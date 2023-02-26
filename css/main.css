@@ -589,3 +589,8 @@ color: var(--IconColor);
       bottom: 33px;
       right: 0;
   } */
+
+.mapboxgl-ctrl-top-right {
+    right: 0;
+    top: 70px;
+}

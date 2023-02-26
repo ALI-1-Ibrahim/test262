@@ -590,7 +590,7 @@ color: var(--IconColor);
       right: 0;
   } */
 
-.mapboxgl-ctrl-top-right {
+/* .mapboxgl-ctrl-top-right {
     right: 0;
     top: 70px;
-}
+} */

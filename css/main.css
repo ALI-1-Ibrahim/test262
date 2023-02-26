@@ -19,7 +19,7 @@ body{
   flex-direction: column;
   align-items: center;
   /* justify-content: center */
-  overflow: cut;
+/*   overflow: cut; */
 }
 /* document.body.style.flexDirection = "column";
       // document.body.style.alignItems = "center";
@@ -28,8 +28,8 @@ a.mapboxgl-ctrl-logo{
   display: none;
 }
 #TitlePar{
-/*   width: 100%; */
-  width: 100vw;
+  width: 100%;
+/*   width: 100vw; */
   /* height: 50%; */
   padding: 10px 0px;
   height: auto;

@@ -47,7 +47,12 @@ a.mapboxgl-ctrl-logo{
  /* width: 100%;*/
   width: 100vw;
   height: 100vh;
+/*   margin-top: 70px; */
+
 }
+
+ 
+   
 /* .mapboxgl-ctrl{
   display: none !important;
 } */
@@ -331,9 +336,7 @@ color: var(--IconColor);
   #div{position: absolute;top: 25%;}
 }
 
-    #map {
-    margin-top: 70px;
-    }
+   
 
 
 /****************************************************************************************************/
@@ -590,7 +593,7 @@ color: var(--IconColor);
       right: 0;
   } */
 
-/* .mapboxgl-ctrl-top-right {
+.mapboxgl-ctrl-top-right {
     right: 0;
     top: 70px;
-} */
+}
